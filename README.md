@@ -1,4 +1,4 @@
-- 👋🏾 Hi, my name is Yazide Chitou but can call me Yaz
+- 👋🏾 Hi, my name is Yazide Chitou but you can call me Yaz
 - 👀 I’m interested in a role as a software engineer at a company where I can learn, grow, and continue to master the craft.
 - 👨🏾‍💻 I’m currently learning javascript, angular and react
 - 🤝 I’m looking to collaborate on project pertaining to javascript, html, css, sql, mysql
