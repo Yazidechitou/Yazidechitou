@@ -1,6 +1,6 @@
 - 👋🏾 Hi, my name is Yazide Chitou but you can call me Yaz
 - 👀 I’m interested in a role as a software engineer at a company where I can learn, grow, and continue to master the craft.
-- 👨🏾‍💻 I’m currently learning javascript, angular and react
+- 👨🏾‍💻 I’m currently learning python, javascript, html, css, django, angular and react
 - 🤝 I’m looking to collaborate on project pertaining to javascript, html, css, sql, mysql
 
 I am a software engineer and U.S. Army Veteran leveraging 13 years of proven experience in software and web development, Cyber security, Network, System and Database Administration. Adept at leading teams of up to 45 personnel in a
