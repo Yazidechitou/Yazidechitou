@@ -1,11 +1,10 @@
-- 👋🏾 Hi, my name is Yazide Chitou but you can call me Yaz
+- 👋🏾 Hi, my name is Yazide (Ya-Zeed) Chitou but you can call me Yaz
 - 👀 I’m interested in a role as a software engineer at a company where I can learn, grow, and continue to master the craft.
 - 👨🏾‍💻 I’m currently learning python, javascript, html, css, django, angular and react
-- 🤝 I’m looking to collaborate on project pertaining to javascript, html, css, sql, mysql
+- 🤝 I’m looking to collaborate on project pertaining to Python, JavaScript, HTML, CSS, SQL, PostgreSQL
 
-I am a software engineer and U.S. Army Veteran leveraging 14 years of proven experience in software and web development, Cyber security, Network, System and Database Administration. Adept at leading teams of up to 45 personnel in a
-dynamic, fast-paced environment. Bilingual in English and French, I possess diverse hands-on experience in coding, web design, network infrastructure optimization, and ethical hacking. In addition I have a comprehensive background in coding, network connectivity, performance, and monitoring
-routing protocols. Currently working as a cybersecurity specialist, I seek a role as a web developer at a company where I can learn, grow, and continue to master the craft.
+Software Engineer and US Army Veteran with 14 years’ experience in IT as a Network/System and Security/Database Administrator in cleared government spaces. After graduating a software engineering bootcamp, I am seeking a role to continue growing my full-stack software engineering skills. Self-motivated and enthusiastic worker with vast experience that is valuable to software development. Bringing forth a proven track record of achievement and a reputation for positive collaboration. Confident, hardworking, and committed to seeing results in whatever position I am in. Reliable and dedicated to finding a place that will benefit from my superior skill set and energetic drive. I am bilingual and this has been a plus for my former employers during my duties’ travels.!
+
 <!---
 Yazidechitou/Yazidechitou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
