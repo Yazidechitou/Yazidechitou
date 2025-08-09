@@ -1,9 +1,9 @@
 - 👋🏾 Hi, my name is Yazide (Ya-Zeed) Chitou but you can call me Yaz
-- 👀 I’m a software engineer at a company where learn, grow, and continue to master the craft.
-- 👨🏾‍💻 I’m currently learninworking with this stack Python, JavaScript, C#, .Net, HTML, CSS, Django, and React.
+- 👀 I’m a software engineer 
+- 👨🏾‍💻 I’m currently working with this stack Python, JavaScript, C#, .Net, HTML, CSS, Django, and React.
 - 🤝 I’m looking to collaborate on project pertaining to Python, JavaScript, HTML, CSS, SQL, PostgreSQL
 
-Software Engineer and US Army Veteran with 17 years’ experience in IT (Software Development, Network/System and
+Software Engineer and US Army Veteran with 18 years’ experience in IT (Software Development, Network/System and
 Security/Database Administrator) in cleared government spaces. I am seeking a role to continue growing my full-stack
 software engineering skills. Self-motivated and enthusiastic worker with vast experience that is valuable to software
 development. Bringing forth a proven track record of achievement and a reputation for positive collaboration. Confident,
